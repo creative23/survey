@@ -1,0 +1,11 @@
+update poll_qst2
+set `qst_total` = 4
+where `opt5` = '' and `opt6` = ''
+
+update poll_qst2
+set `qst_total` = 5
+where `opt5` <> '' and `opt6` = ''
+
+update poll_qst2
+set `qst_total` = 6
+where `opt5` <> '' and `opt6` <> ''

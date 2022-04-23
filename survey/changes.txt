@@ -1,0 +1,24 @@
+
+put answer column in question table
+put reveal button on page
+
+validation, so a choice is mandatory.
+
+
+new columns in answer table
+date_ time_ exam_no ans correct
+
+
+Add column that show number of questions 4, 5, 6
+Could then take away the placeholder in 5 and/or 6 when not needed
+
+add dynamic image
+
+
+query results page
+
+
+
+
+
+
